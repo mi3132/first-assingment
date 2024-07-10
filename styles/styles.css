@@ -1,0 +1,37 @@
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    margin: 30px 40px ;
+    }
+    .miyan{
+        margin-top: 0px;
+    }
+   .styles {
+    width: 95%;
+    height:   500px;
+    background-image: url("../assets/Hero-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+    margin: auto;
+
+   }
+   .title{
+    height: 45px;
+    
+    
+   }
+   .btn{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 23px;
+
+
+   }
+   .container{
+    margin-top: 35px;
+   }
